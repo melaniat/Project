@@ -73,7 +73,7 @@ public class HrApplication {
 	            } else if (incercari == 1) {
 	                System.out.println("Mai ai o incercare.");
 	            } else {
-	                System.out.println("Mai ai " + incercari + " incercari.");
+	                System.out.println("Mai ai " + incercari + " incercari.");// test
 	            }
 	        }
 	    }
